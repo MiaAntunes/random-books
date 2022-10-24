@@ -1,0 +1,18 @@
+:root{
+     --yellow:#f6cd19;
+     --white-80:#f1f1f1;
+     --white-100:#ffffff;
+     --black:#000000;
+
+     --font-bold: 700;
+     --font-regular: 400;
+
+     --font-inter:'Inter', sans-serif;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
