@@ -1,3 +1,8 @@
+/*Links para o CSS
+@import url(../css/basic.css);
+@import url(../css/mobile.css);
+*/
+
 :root{
      --yellow:#f6cd19;
      --white-80:#f1f1f1;
