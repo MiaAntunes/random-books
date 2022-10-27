@@ -1,0 +1,94 @@
+/*Não consegui centralizar a imagem!!*/
+@media screen and (min-width:0px) and (max-width:570px) {
+    body{
+        height: auto;
+    }
+
+    main{
+        padding: 2rem;
+    }
+
+   .container{
+        flex-wrap: wrap;
+        gap: 2rem;
+        justify-content: center;
+        padding: 2rem 0 ;
+   }
+
+
+   .imageLibre{
+        width: 11.25rem; 
+   }
+
+   .texts__column{
+        margin: 0.5rem 0;
+   }
+
+   .texts__title{
+        font-size: 1.5rem;
+   }
+
+   .texts__subtitle{
+        font-size: 0.75rem;
+   }
+
+   .texts__label, .texts__value{
+        font-size: 0.625rem;
+   }
+
+   #text__Synopis{
+        font-size: 0.5rem;
+   }
+
+}
+
+@media screen and (min-width:501px) and (max-width:1000px){
+   .container{
+        gap: 2rem;
+        justify-content: center;
+        padding: 2rem 0 ;
+   }
+
+   .container__image{
+        align-items: center;
+        justify-content: center;
+   }
+
+   .imageLibre{
+        width: 11.25rem; 
+   }
+
+   .texts__column{
+        margin: 0.5rem 0;
+   }
+
+   .texts__title{
+        font-size: 1.5rem;
+   }
+
+   .texts__subtitle, .texts__label, .texts__value{
+        font-size: 0.75rem;
+   }
+   #text__Synopis{
+        font-size: 0.625rem;
+   }
+}
+
+@media screen and (min-width:1000px) and (max-width:1440px){
+    .container{
+      padding: 2rem;
+    }
+
+    .imageLibre{
+        width: 15.625rem;
+    }
+    
+    .texts__subtitle, .texts__label{
+        font-size: 1rem;
+    }
+    
+    #text__Synopis{
+        font-size: 0.875rem;
+    }
+
+}

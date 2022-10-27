@@ -1,7 +1,6 @@
-/*Links para o CSS
-@import url(../css/basic.css);
-@import url(../css/mobile.css);
-*/
+
+@import url(basic.css);
+@import url(mobile.css);
 
 :root{
      --yellow:#f6cd19;
