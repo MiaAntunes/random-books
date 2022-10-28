@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "name": "Hello World!",
+      "subtitle": "First Code",
+      "author": "Wesley",
+      "img": "./assets/img/Book_Image.svg",
+      "length": 100,
+      "date": "01/02/1500",
+      "amazon_link": "https://amazon.com",
+      "synopsis": "Lorem ipsun coding."
+    },
+    {
+      "name": "Hello!",
+      "subtitle": "Second Code",
+      "author": "Camila",
+      "img": "./assets/img/star-icon.svg",
+      "length": 200,
+      "date": "01/01/0001",
+      "amazon_link": "https://amazon.com/0001",
+      "synopsis": "No lorem ipsum"
+    }
+  ]
+}
