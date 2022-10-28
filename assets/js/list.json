@@ -1,24 +1,85 @@
 {
   "books": [
     {
-      "name": "Hello World!",
-      "subtitle": "First Code",
-      "author": "Wesley",
-      "img": "./assets/img/Book_Image.svg",
-      "length": 100,
-      "date": "01/02/1500",
-      "amazon_link": "https://amazon.com",
-      "synopsis": "Lorem ipsun coding."
+      "name": "Outros Jeitos de Usar a Boca",
+      "subtitle": "Você tinha tanto medo da minha voz que eu decidi ter medo também",
+      "author": "Rupi Kaur",
+      "img": "./assets/img/Outros-Jeitos-de-Usar-a-Boca.jpg",
+      "length": 208,
+      "date": "01/02/2017",
+      "amazon_link": "https://ler.amazon.com.br/kp/embed?asin=B06X9HWL4G&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_AGF8N2XDSKC9P3JAFK3J",
+      "synopsis": "Outros jeitos de usar a boca é um livro de poemas sobre a sobrevivência. Sobre a experiência de violência, o abuso, o amor, a perda e a feminilidade. O volume é dividido em quatro partes, e cada uma delas serve a um propósito diferente. Lida com um tipo diferente de dor. Cura uma mágoa diferente. Outros jeitos de usar a boca transporta o leitor por uma jornada pelos momentos mais amargos da vida e encontra uma maneira de tirar delicadeza deles. Publicado inicialmente de forma independente por Rupi Kaur, poeta, artista plástica e performer canadense nascida na Índia e que também assina as ilustrações presentes neste volume , o livro se tornou o maior fenômeno do gênero nos últimos anos nos Estados Unidos, com mais de 1 milhão de exemplares vendidos."
     },
     {
-      "name": "Hello!",
-      "subtitle": "Second Code",
-      "author": "Camila",
-      "img": "./assets/img/star-icon.svg",
-      "length": 200,
-      "date": "01/01/0001",
-      "amazon_link": "https://amazon.com/0001",
-      "synopsis": "No lorem ipsum"
+      "name": "A hipótese do amor",
+      "subtitle": "Quando um namoro de mentira entre cientistas encontra a irresistível força da atração, todas as teorias cuidadosamente calculadas sobre o amor são postas à prova.",
+      "author": "Ali Hazelwood",
+      "img": "./assets/img/a-hipotese-do-amor.jpg",
+      "length": 453,
+      "date": "26/06/2022",
+      "amazon_link": "https://ler.amazon.com.br/kp/embed?asin=B09ZBKHN7P&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_4TQYAEDCGMWSSBWC9N7T",
+      "synopsis": "Olive Smith, aluna do doutorado em Biologia da Universidade Stanford, acredita na ciência – não em algo incontrolável como o amor.Depois de sair algumas vezes com Jeremy, ela percebe que sua melhor amiga gosta dele e decide juntá-los. Para mostrar que está feliz com essa escolha, Olive precisa ser convincente: afinal, cientistas exigem provas.Sem muitas opções, ela resolve inventar um namoro de mentira e, num momento de pânico, beija o primeiro homem que vê pela frente."
+    },
+    {
+      "name": "Extraordinário",
+      "subtitle": "Não julgue um menino pela cara",
+      "author": "R.J Palacio",
+      "img": "./assets/img/extraordinario.jpg",
+      "length": 320,
+      "date": "31/01/2013",
+      "amazon_link": "https://ler.amazon.com.br/kp/embed?asin=B00B8ZI8BO&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DNQABCP94J318CGSJN88",
+      "synopsis": "August Pullman, o Auggie, nasceu com uma síndrome cuja sequela é uma severa deformidade facial, que lhe impôs diversas cirurgias e complicações médicas. Por isso ele nunca frequentou uma escola de verdade... Até agora. Todo mundo sabe que é difícil ser um aluno novo, mais ainda quando se tem um rosto tão diferente. Prestes a começar o quinto ano em um colégio particular em Nova York, Auggie tem uma missão nada fácil pela frente: convencer os colegas de que, apenas da aparência incomum, ele é um menino igual a todos os outros."
+    },
+    {
+      "name": "Vermelho, branco e sangue azul",
+      "subtitle": "O que pode acontecer quando o filho da presidenta dos Estados Unidos se apaixona pelo príncipe da Inglaterra?",
+      "author": "Casey McQuiston ",
+      "img": "./assets/img/vermelho.jpg",
+      "length": 392,
+      "date": "04/11/2019",
+      "amazon_link": "https://ler.amazon.com.br/kp/embed?asin=B00B8ZI8BO&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DNQABCP94J318CGSJN88",
+      "synopsis": "Quando sua mãe foi eleita presidenta dos Estados Unidos, Alex Claremont-Diaz se tornou o novo queridinho da mídia norte-americana. Bonito, carismático e com personalidade forte, Alex tem tudo para seguir os passos de seus pais e conquistar uma carreira na política, como tanto deseja. Mas quando sua família é convidada para o casamento real do príncipe britânico Philip, Alex tem que encarar o seu primeiro desafio diplomático: lidar com Henry, irmão mais novo de Philip, o príncipe mais adorado do mundo, com quem ele é constantemente comparado ― e que ele não suporta.O encontro entre os dois sai pior do que o esperado, e no dia seguinte todos os jornais do mundo estampam fotos de Alex e Henry caídos em cima do bolo real, insinuando uma briga séria entre os dois. Para evitar um desastre diplomático, eles passam um fim de semana fingindo ser melhores amigos e não demora para que essa relação evolua para algo que nenhum dos dois poderia imaginar ― e que não tem nenhuma chance de dar certo. Ou tem?"
+    },
+    {
+      "name": "Sobre o suicídio",
+      "subtitle": "Sobre o suicídio é uma peça 'insólita' em meio aos seus trabalhos, como coloca Michael Löwy em ensaio que acompanha o livro.",
+      "author": "Karl Marx",
+      "img": "./assets/img/suicidio.jpg",
+      "length": 84,
+      "date": "31/12/2006",
+      "amazon_link": "https://www.amazon.com.br/Sobre-suic%C3%ADdio-Karl-Marx-ebook/dp/B00KVM2PKA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1666993142&sr=1-1",
+      "synopsis": "É um Marx que trata da esfera da vida privada, das angústias da existência mediada pela propriedade e pelas relações de classe, e que antecipa temas como o direito ao aborto, o feminismo e a opressão familiar na sociedade capitalista.Diferente também na sua origem, o texto tem por base uma tradução comentada de passagens de Du suicide et ses causes, um capítulo das memórias de Jacques Peuchet, diretor dos Arquivos da Polícia de Paris durante o período da Restauração, que se torna uma espécie de 'coautor' desta obra.Publicado uma única vez durante a vida de Marx, em 1846, e com grande parte da escrita feita por outra pessoa, por que ainda considerá-lo um texto de sua autoria? Para Löwy: 'Além de havê-lo assinado, Marx imprimiu sua marca ao documento de várias maneiras: na introdução escrita por ele, na seleção dos excertos, nas modificações introduzidas pela tradução e nos comentários com que temperou o documento. Mas a principal razão pela qual essa peça pode ser considerada expressão das ideias de Marx é que ele não introduz qualquer distinção entre seus próprios comentários e os excertos de Peuchet, de modo que o conjunto do documento aparece como um escrito homogêneo, assinado por Karl Marx'.A partir dos interessantes casos policiais de suicídio relatados por Peuchet, Marx tece as relações entre a vida privada e a estrutura social. Analisa o suicídio como expressão extrema de uma sociedade doente, de um sistema que necessita de uma transformação radical para resolver não só as questões do campo da política e da economia, mas também as opressões nas relações sociais e o mal-estar dos indivíduos.Embora Peuchet não fosse nem socialista nem revolucionário - ao contrário, defendeu a monarquia durante a Revolução Francesa -, Marx aponta que não é preciso ser socialista para criticar a ordem estabelecida. O que em Peuchet são críticas sociais de inspiração romântica publicadas nas suas memórias, em Marx é apenas o começo da construção de uma análise ampla e sistemática do capitalismo.Em um dos casos relatados no livro - uma jovem esposa que, trancafiada pelo ciúme doentio do marido, comete suicídio - fica clara a intersecção feita pelo autor entre as relações de posse do mundo da propriedade aplicadas aos relacionamentos.Com um texto claro, surpreendente e muitas vezes apaixonado em suas argumentações, Sobre o suicídio revela uma faceta ignorada de um dos mais famosos e influentes pensadores da humanidade: suas ideias sobre relações pessoais."
+    },
+    {
+      "name": "A estratégia do charme",
+      "subtitle": "A estratégia do charme é uma comédia romântica encantadora sobre amores improváveis, aparências enganosas e personagens que precisam superar traumas e preconceitos para viver um conto de fada de verdade.",
+      "author": "Alison Cochrun ",
+      "img": "./assets/img/aestrategiadocharme.jpg",
+      "length": 420,
+      "date": "29/06/2022",
+      "amazon_link": "https://ler.amazon.com.br/kp/embed?asin=B0B15MWN1S&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_892G8H1JJGQF2E8BA90Z",
+      "synopsis": "Dev Deshpande tem o trabalho dos sonhos: como o mais bem-sucedido produtor da história do reality show Para Todo o Sempre, ele cria contos de fada e ajuda os participantes a viverem uma história de amor perfeita. Mas seu histórico impecável fica ameaçado quando Charlie Winshaw é escolhido como protagonista da nova temporada. No papel, o empresário e prodígio da tecnologia parece o Príncipe Encantado perfeito, mas, na realidade, Charlie é o pesadelo dos produtores — ele não acredita em amor verdadeiro e só aceitou participar do programa para recuperar sua imagem profissional após alguns incidentes.Enquanto o programa os leva para destinos paradisíacos ao redor do mundo, Dev tenta ajudar Charlie a se conectar com alguma pretendente. No entanto, conforme os dois se aproximam, fica claro que a química entre eles não pode ser ignorada. Agora, precisam decidir qual história de amor contar: a que Dev fabricou diante das câmeras ou a que viveu com Charlie nos bastidores."
+    },
+    {
+      "name": "Amor & Azeitonas",
+      "subtitle": "Da autora do best-seller Amor & gelato, uma viagem inesquecível pela ilha de Santorini",
+      "author": "Jenna Evans Welch",
+      "img": "./assets/img/amoreazeitonas.jpg",
+      "length": 448,
+      "date": "13/09/2021",
+      "amazon_link": "https://ler.amazon.com.br/kp/embed?asin=B09CBDRM5N&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_MZ6BWT6Q90HAXDW4XBQD",
+      "synopsis": "O que a lenda de uma cidade submersa tem a ver com a vida de uma adolescente? No caso da greco-americana Liv Varanakis, a resposta é tudo. Quando era pequena, Liv e seu pai passavam horas tentando descobrir a localização de Atlântida, mas, desde que ele foi embora sem explicação, ela evita pensar na cidade perdida a todo custo. Com dezessete anos, Liv tem uma nova vida, um novo namorado e está muito bem, obrigada.Até que um cartão-postal amassado chega de Santorini e faz seus planos irem por água abaixo. Nele, seu pai explica que está gravando um documentário a respeito de Atlântida e que mandou uma passagem de avião para Liv ir até a Grécia ajudá-lo. Agora, ela terá que deixar para trás tudo que construiu e embarcar rumo ao desconhecido.O reencontro dos dois traz à tona milhares de perguntas e emoções, e, para piorar, Theo, o assistente charmoso de seu pai, insiste em filmar esses momentos constrangedores. Pelo menos Liv pode aproveitar a ilha paradisíaca, com seu pôr do sol magnífico, a água turquesa, as casinhas brancas e a culinária deliciosa. Porém, com o passar dos dias, a garota começa a desconfiar de que não foi Atlântida que a trouxe até ali, e sim algo muito mais importante."
+    },
+    {
+      "name": "Heartstopper",
+      "subtitle": "Dois garotos e um encontro",
+      "author": "Alice Oseman",
+      "img": "./assets/img/heartstopper.jpg",
+      "length": 288,
+      "date": "13/09/2021",
+      "amazon_link": "https://www.amazon.com.br/Heartstopper-Dois-garotos-encontro-vol/dp/8555341612/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1666992800&sr=1-3",
+      "synopsis": "Charlie Spring e Nick Nelson não têm quase nada em comum. Charlie é um aluno dedicado e bastante inseguro por conta do bullying que sofre no colégio desde que se assumiu gay. Já Nick é superpopular, especialmente querido por ser um ótimo jogador de rúgbi. Quando os dois passam a sentar um ao lado do outro toda manhã, uma amizade intensa se desenvolve, e eles ficam cada vez mais próximos.Charlie logo começa a se sentir diferente a respeito do novo amigo, apesar de saber que se apaixonar por um garoto hétero só vai gerar frustrações. Mas o próprio Nick está em dúvida sobre o que sente — e talvez os garotos estejam prestes a descobrir que, quando menos se espera, o amor pode funcionar das formas mais incríveis e surpreendentes."
     }
+
   ]
 }
