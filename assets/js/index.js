@@ -15,7 +15,7 @@ function setRandomNumber(list) {
   const randomBook = Math.floor(Math.random() * list.books.length);
 
   book.image.setAttribute("src", list.books[randomBook].img);
-  book.amazon_link.setAttribute("href", list.book[randomBook].amazon_link)
+  book.amazon_link.setAttribute("href", list.books[randomBook].amazon_link)
 
   book.title.innerText = list.books[randomBook].name;
   book.subtitle.innerText = list.books[randomBook].subtitle;
