@@ -66,6 +66,9 @@ main{
 .texts__value{
     align-self: center;
 }
+.texts__value.synopsis {
+    align-self: start;
+}
 
 #text__Synopis{
     margin-top: 0.5rem;
