@@ -5,7 +5,7 @@ body{
     font-family: var(--font-inter);
     font-size: 1rem;
     justify-content: center;
-    margin: auto; /*Duvidas*/
+    margin: auto; 
     height: 100vh;
 }
 
@@ -19,17 +19,16 @@ main{
 .container{
     align-items: center;
     display: flex;
-    /*flex-wrap: wrap;*/
     gap: 3rem;
 }
 
 /*---Container da Imagem---*/
 .container__image{
-    display: flex; /*Dúvidas*/
+    display: flex; 
 }
 
 .imageLibre{
-    width: 18.75rem; /*300px*/
+    width: 18.75rem; 
 }
 
 /*---Container dos Textos---*/
@@ -59,20 +58,22 @@ main{
 }
 
 .texts__label{
-    font-size: 1.5rem; /*24px*/
+    font-size: 1.5rem; 
     margin-right: 0.3rem;
 }
 
 .texts__value{
+    display: flex;
     align-self: center;
 }
 .texts__value.synopsis {
     align-self: start;
 }
 
+
 #text__Synopis{
     margin-top: 0.5rem;
-    max-width: fit-content;
+    max-width: 55rem;
 }
 
 

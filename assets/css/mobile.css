@@ -36,11 +36,6 @@
    .texts__label, .texts__value{
         font-size: 0.625rem;
    }
-
-   #text__Synopis{
-        font-size: 0.5rem;
-   }
-
 }
 
 @media screen and (min-width:501px) and (max-width:1000px){
@@ -70,9 +65,6 @@
    .texts__subtitle, .texts__label, .texts__value{
         font-size: 0.75rem;
    }
-   #text__Synopis{
-        font-size: 0.625rem;
-   }
 }
 
 @media screen and (min-width:1000px) and (max-width:1440px){
@@ -86,10 +78,6 @@
     
     .texts__subtitle, .texts__label{
         font-size: 1rem;
-    }
-    
-    #text__Synopis{
-        font-size: 0.875rem;
     }
 
 }
